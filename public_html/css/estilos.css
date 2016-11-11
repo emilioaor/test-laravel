@@ -1,0 +1,82 @@
+body{
+	margin-top: 10px;
+}
+header .container{
+	background: #222;
+	border-radius: 10px;
+	box-shadow: 0px 0px 10px #000;
+	border:solid;
+	border-width: 1px;
+	border-color: #ccc;
+	color: #fff;
+	padding-bottom: 20px;
+}
+header h1{
+	font-size: 50px;
+}
+header p{
+	font-size: 20px;
+}
+header a{
+	font-size: 35px;
+	background-color: #ccc;
+	border:solid;
+	border-color: #999;
+	padding: 5px;
+	color: #000;
+}
+header a:hover{
+	text-decoration: none;
+	color: #444;
+}
+header a:focus{
+	color: #444;
+	text-decoration: none;
+}
+.main .container{
+	padding-top: 10px;
+	padding-bottom: 30px;
+	margin-top: -10px;
+	border-left: solid;
+	border-right: solid;
+	border-width: 1px;
+}
+.main .publication{
+	border:solid;
+	border-width: 1px;
+	border-color: #555;
+	padding: 5px;
+	margin-bottom: 20px;
+}
+.main .publication .btn-success{
+	font-size: 12px;
+}
+footer .container{
+	background: #222;
+	color: #fff;
+	font-size: 20px;
+	padding: 5px;
+	border-radius: 10px;
+	margin-top: -10px;
+	margin-bottom: 10px;
+}
+
+.btn-default{
+	font-size: 25px;
+}
+.btn-category{
+	background: #222;
+	color: #fff;
+	font-size: 12px;
+}
+.btn-category:hover{
+	background: #555;
+	color: #fff;
+}
+.comments{
+	border:solid;
+	border-width: 1px;
+	padding: 5px;
+	border-color: #ccc;
+	margin-bottom: 10px;
+}
